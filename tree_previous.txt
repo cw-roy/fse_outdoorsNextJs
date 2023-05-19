@@ -1,0 +1,23 @@
+.
+├── outdoors-next
+│   ├── next.config.js
+│   ├── next-env.d.ts
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── postcss.config.js
+│   ├── public
+│   │   ├── next.svg
+│   │   └── vercel.svg
+│   ├── README.md
+│   ├── src
+│   │   └── app
+│   │       ├── favicon.ico
+│   │       ├── globals.css
+│   │       ├── layout.tsx
+│   │       └── page.tsx
+│   ├── tailwind.config.js
+│   └── tsconfig.json
+├── README.md
+└── tree.txt
+
+4 directories, 16 files
