@@ -1,0 +1,28 @@
+.
+├── outdoors-next
+│   ├── next.config.js
+│   ├── next-env.d.ts
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── postcss.config.js
+│   ├── public
+│   │   ├── next.svg
+│   │   └── vercel.svg
+│   ├── README.md
+│   ├── src
+│   │   └── app
+│   │       ├── favicon.ico
+│   │       ├── globals.css
+│   │       ├── HomePage.tsx
+│   │       ├── layout.tsx
+│   │       ├── NationalParksSearchPage.tsx
+│   │       ├── orig-layout.tsx
+│   │       ├── orig-page.tsx
+│   │       └── page.tsx
+│   ├── tailwind.config.js
+│   └── tsconfig.json
+├── README.md
+├── tree_previous.txt
+└── tree.txt
+
+4 directories, 21 files
