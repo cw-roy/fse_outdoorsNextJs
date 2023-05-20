@@ -1,4 +1,6 @@
-# Capstone Project: Enjoy the Outdoors
+# This project is currently non-functional and being abandoned for now due to other workload.  If you want to fork it and make it work, have at it and let me know how it went!
+
+## Capstone Project: Enjoy the Outdoors
 
 Build a website to help users find enjoyable outdoor activities, focusing on national parks and mountains. Utilize your knowledge of HTML, CSS, and JavaScript to complete this project. Research skills will also be necessary to overcome any obstacles you encounter.
 
